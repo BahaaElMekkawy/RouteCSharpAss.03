@@ -1,0 +1,90 @@
+Assignment 3 
+1- Write a program that takes a number from the user then print yes if that number can be divided by 3 and 4 otherwise print no.
+    Example (1)
+    Input: 12 
+    Output: Yes
+    Example (2)
+    Input: 9 
+    Output: No
+
+
+
+2- Write a program that allows the user to insert an integer then print negative if it is negative number otherwise print positive.
+    Example (1)
+    Input: -5
+    Output: negative
+    Example (2)
+    Input: 10
+    Output: positive
+
+
+
+3- Write a program that takes 3 integers from the user then prints the max element and the min element.
+    Example (1)
+    Input:7,8,5
+    Output:
+    max element = 8
+    min element = 5
+    Example (2)
+    Input: 3 6 9
+    Outputs:
+    Max element = 9
+    Min element = 3
+
+4- Write a program that allows the user to insert an integer number then check If a number is even or odd.
+
+5- Write a program that takes character from the user then if it is a vowel chars (a,e,I,o,u) then print (vowel) otherwise print (consonant).
+    Example (1)
+    Input: O
+    Output: vowel
+    Example (2)
+    Input: b
+    Output: Consonant
+
+6- Write a program that allows the user to insert an integer then 
+print a multiplication table up to 12.
+    Example
+    Input: 5
+    Outputs: 5 10 15 20 25 30 35 40 45 50 55 60
+
+7- Write a program that allows to user to insert number then print all even numbers between 1 to this number
+    Example:
+    Input: 15
+ Output: 2 4 6 8 10 12 14
+
+
+
+8- Write a program that takes two integers then prints the power.
+    Example:
+    Input: 4 3
+    Output: 64
+    Hint: how to calculate 4^3 = 4 * 4 * 4 =64
+
+
+
+9- Write a program to input the month number and print the number of days in that month.
+    Example
+    Input: Month Number: 1
+    Output: Days in Month: 31
+
+
+
+
+
+10- Within a company, the efficiency of workers is evaluated based on the duration required to complete a specific task. A worker's efficiency level is determined as follows: 
+- If the worker completes the job within 2 to 3 hours, they are considered highly efficient. 
+- If the worker takes 3 to 4 hours, they are instructed to increase their speed. 
+- If the worker takes 4 to 5 hours, they are provided with training to enhance their speed. 
+- If the worker takes more than 5 hours, they are required to leave the company. 
+To calculate the efficiency of a worker, the time taken for the task is obtained via user input from the keyboard.
+
+
+
+
+
+ 
+
+
+
+
+
